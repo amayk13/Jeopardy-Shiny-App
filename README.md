@@ -5,7 +5,7 @@
 - Use Random mode to pick 10 questions from the database for practice.
 - Use Test mode to test yourself against one question with a 30 second timer.
 
-![](https://github.com/amayk13/Jeopardy-Shiny-App/blob/main/Shiny%20App%20gif%20compressed.gif){:height="50%" width="50%"}
+![](https://github.com/amayk13/Jeopardy-Shiny-App/blob/main/Shiny%20App%20gif%20compressed.gif)
 
 Check out the app!
 
